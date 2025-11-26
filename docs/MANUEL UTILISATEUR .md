@@ -10,7 +10,7 @@ Avant de lancer l'automatisation, vous devez configurer les paramètres de la no
 
    \- DATES : Modifiez les dates de DATE\_LIMITE (Date limite de commande) et DATE\_LIVRAISON (Date de la distribution) dans les cellules jaunes.
 
-   \- PRODUITS : Cochez "OUI" dans la colonne "Commander" de l'onglet "Config" pour les produits que vous souhaitez inclure. Les produits cochés "NON" seront ignorés.
+   \- PRODUITS : Selectionnez le produit dans les menus déroulants des cases A2, A3, A4 etc.. jusqu'au nombre de produits à offir pour cette commande. Ajoutez ou supprimer les lignes avec le menu déroulant avec copier coller ou supprimer ligne.
 
    \- NOM : Le NOM\_PREFIXE sera utilisé pour nommer le Formulaire et le Sheet générés (ex: "Commandes Agrumes \- Livraison du 28 janvier 2026").
 
