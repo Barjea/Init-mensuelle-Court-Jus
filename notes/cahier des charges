@@ -1,0 +1,32 @@
+Contexte 👍
+J’ai développé un système qui permet de gérer les commandes mensuelles de 28 adhérents locaux auprès de l'association Court-Jus (fruits, légumes, fromages, pâtes).
+Période : Octobre à Mai (8 mois) Fonctionnalité clé : Les adhérents peuvent modifier leur commande jusqu'à la date limite - seule la dernière soumission est retenue.
+
+Il y a 7 fichier joints : 
+DOCUMENTATION_TECHNIQUE_Commandes.md
+GUIDE_UTILISATEUR_Commandes_V2.md
+Modèle Commandes 2026 (Google sheet)
+Modèle Commandes 2026 (Google forms)
+l'exemple de la commande du 30 novembre 2025
+	30-11 Commandes Agrumes (Google sheet)
+	30-11 Commandes Agrumes (Google forms)
+2025-2026 - Référence pour les produits (Google forms)
+
+Question ➕
+Avec les nouvelles capacités de Gemini 3,  est-ce que je peux demander à Gemini de m'aider à préparer la commande mensuelle en lui donnant :
+ 	la date de la livraison
+ 	la date limite de commande
+	la liste des produits à inclure dans le Google form
+Exemple :
+date de la livraison : 30 janvier 2026
+date limite de commande : 6 janvier 2026
+liste produits : 
+	MANDARINES Satsuma
+	ARTICHAUTS
+	CITRONS
+	AMANDES grillées salées
+	PAMPLEMOUSSES
+Faire : 
+	Analyser les fichiers joints pour comprendre le fonctionnement
+	répondre à ma question
+	proposer une solution
