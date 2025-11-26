@@ -31,6 +31,6 @@ Une fois la configuration terminée, vous lancez le script depuis l'éditeur :
 
    \- Le nouveau Formulaire de Commande sera prêt, avec :  
       \* Titre et Description mis à jour avec la date de livraison et la date limite.  
-      \* La Section 2 (Commande) contenant uniquement les questions pour les produits cochés "OUI" dans "Config".  
+      \* La Section 2 (Commande) contenant uniquement les questions pour les produits sélectionnés dans la feuille Produits.  
       \* Chaque question de produit aura son conditionnement et son prix mis à jour dans le texte d'aide (ex: "Caisse de 12 kg à 24,00 €/caisse").  
    \- Les nouveaux fichiers (Formulaire et Sheet) sont automatiquement déplacés dans le dossier de gestion du Drive.  
