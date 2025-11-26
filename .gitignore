@@ -1,0 +1,16 @@
+# Fichiers privés et sensibles
+private/
+*.env
+credentials.json
+
+# Dossiers temporaires et cache
+.claude/
+node_modules/
+.DS_Store
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*~
+*.tmp
