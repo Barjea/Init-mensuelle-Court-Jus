@@ -15,7 +15,7 @@ Le script est organisé en étapes séquentielles (fichiers `Init.js` et `Code.j
 | **2** | `etape_2_renommerFormulaire()` | Renomme le Formulaire Copié avec le préfixe et la date de livraison. |
 | **3** | `etape_3_deplacerFichiers()` | Déplace le Formulaire et le Sheet dans le dossier cible. Lie le nouveau Formulaire au nouveau Sheet pour les réponses. |
 | **4** | `etape_4_miseAJourFormulaire()` | Met à jour le Titre Global et la Description du Formulaire via templating (`{{DATE_LIVRAISON}}`, `{{DATE_LIMITE}}`). |
-| **5** | `etape_5_importerQuestions()` | **Clonage Sémantique des Questions :** Reconstruit les questions de produit sélectionnées (de type `TEXT`) en copiant les propriétés du modèle et en personnalisant le HelpText (Conditionnement/Prix) avant de les insérer. Le modèle initial est supprimé. |
+| **5** | `etape_5_importerQuestions()` | **Clonage Sémantique des Questions :** Reconstruit les questions de produit sélectionnées (de type `TEXT`) en copiant les propriétés du modèle et en personnalisant le HelpText (Conditionnement/Prix) avant de les insérer. |
 
 
 ## III. Notes Techniques Clés
